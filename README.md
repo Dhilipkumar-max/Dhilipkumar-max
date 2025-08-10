@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm an Engineering student passionate about Frontend , Artificial Intelligence and Machine Learning.<br>🚀 On a mission to master AI tools, build real-world projects, and secure a top-tier placement (aiming for 50 LPA+).<br>🧠 Daily leveling up through coding (SkillRack, LeetCode), AI research, and building smart systems.<br>🛠️ Projects: Fire Safety Training App, IMSI Tracker, Medical Chatbot (Edu use)<br>🌱 Currently diving deep into Python, Flutter, and ML frameworks.<br>🗣️ Improving communication & personality—channeling Sanji vibes 😎<br>💬 Let’s collaborate on AI, automation, and impactful tech!<br><br>
+👋 Hi, I'm an Engineering student passionate about Artificial Intelligence and Machine Learning.<br>🚀 On a mission to master AI tools, build real-world projects, and secure a top-tier placement (aiming for 50 LPA+).<br>🧠 Daily leveling up through coding (SkillRack, LeetCode), AI research, and building smart systems.<br>🛠️ Projects: Fire Safety Training App, IMSI Tracker, Medical Chatbot (Edu use)<br>🌱 Currently diving deep into Python, Flutter, and ML frameworks.<br>🗣️ Improving communication & personality—channeling Sanji vibes 😎<br>💬 Let’s collaborate on AI, automation, and impactful tech!<br><br>
 
 
 ## 🌐 Socials:
