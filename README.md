@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dhilip%20Kumar&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Enthusiast%20%7C%20Full-Stack%20Developer%20%7C%20Lifelong%20Learner&descAlignY=60&descAlign=50" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=500&lines=Building+AI+that+makes+a+difference+%F0%9F%9A%80;Learning+%7C+Building+%7C+Leveling+Up+%F0%9F%A7%A0;Open+to+collaborate+on+AI+%26+Automation+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&lines=Building+AI+that+makes+an+impact+🚀;Learning+%7C+Building+%7C+Leveling+Up+🧠;Open+to+Collaborate+on+AI+%26+Automation+🤝)](https://git.io/typing-svg)
 
 <br/>
 
