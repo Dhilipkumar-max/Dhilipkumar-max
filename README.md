@@ -18,15 +18,14 @@
 
 ## 👋 About Me
 
-I'm an **Engineering student at RIT College, Chennai** on a mission to master Artificial Intelligence and build systems that solve real problems. I believe in learning by doing — every project I build pushes me closer to bridging the gap between research and real-world impact.
+I’m **Dhilip Kumar R**, an Engineering student specializing in **Artificial Intelligence and Scalable Systems**.
 
-| 🎯 **Goal** | Secure a top-tier placement (50 LPA+) through consistent growth and impactful projects |
-|---|---|
-| 🧠 **Daily Grind** | Competitive coding (LeetCode, SkillRack) + AI/ML research + building smart systems |
-| 🌱 **Currently Mastering** | Python · Flutter · Deep Learning frameworks |
-| 🛠️ **Notable Projects** | Diabetic Foot Detection · Fire Safety App · Sustain AI · Health Monitoring |
-| 🗣️ **Beyond Code** | Improving communication & leadership — channeling Sanji vibes 😎 |
-| 💬 **Let's Talk** | AI, automation, impactful tech, or anything that pushes the boundary |
+I focus on building real-world AI applications that move beyond experimentation into deployable, production-ready solutions.
+
+- 🧠 Strong foundation in Data Structures & Algorithms  
+- 🤖 Passionate about Deep Learning & AI-powered systems  
+- 🌍 Building technology that solves meaningful problems  
+- 📈 140+ Day LeetCode consistency streak  
 
 ---
 
