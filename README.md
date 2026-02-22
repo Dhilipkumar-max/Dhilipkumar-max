@@ -1,97 +1,96 @@
 <div align="center">
 
-# 👋 Hey there, I'm Dhilip Kumar
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dhilip%20Kumar&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Enthusiast%20%7C%20Full-Stack%20Developer%20%7C%20Lifelong%20Learner&descAlignY=60&descAlign=50" width="100%"/>
 
-### 🤖 AI/ML Enthusiast · Full-Stack Developer · Lifelong Learner
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Building+AI+that+makes+a+difference+%F0%9F%9A%80;Learning+%7C+Building+%7C+Leveling+Up+daily+%F0%9F%A7%A0;Open+to+collaborate+on+AI+%26+Automation+%F0%9F%A4%9D" alt="Typing SVG" />
-
-</div>
-
-<img align="right" width="340" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWhja2E5MHBhZXV5N2Q5bDZrcHN1ZHkzMHZiNHUwM2Y0ZWJkeHRiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="coding gif" />
-
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=500&lines=Building+AI+that+makes+a+difference+%F0%9F%9A%80;Learning+%7C+Building+%7C+Leveling+Up+%F0%9F%A7%A0;Open+to+collaborate+on+AI+%26+Automation+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhilip-kumar-10062532b)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajdhilipkumar20@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Dhilipkumar-max/Portfolio)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhilip-kumar-10062532b)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajdhilipkumar20@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/DhilipkumarR/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Dhilipkumar-max/Portfolio)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhilipkumar-max)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
 I'm an **Engineering student at RIT College, Chennai** on a mission to master Artificial Intelligence and build systems that solve real problems. I believe in learning by doing — every project I build pushes me closer to bridging the gap between research and real-world impact.
 
-- 🎯 **Goal:** Secure a top-tier placement (50 LPA+) through consistent growth and impactful projects
-- 🧠 **Daily grind:** Competitive coding (LeetCode, SkillRack) + AI/ML research + building smart systems
-- 🌱 **Currently mastering:** Python · Flutter · Deep Learning frameworks
-- 🛠️ **Notable projects:** Diabetic Foot Detection · Fire Safety App · Sustain AI · Health Monitoring
-- 🗣️ **Beyond code:** Improving communication & leadership — channeling Sanji vibes 😎
-- 💬 **Let's talk:** AI, automation, impactful tech, or anything that pushes the boundary
+| 🎯 **Goal** | Secure a top-tier placement (50 LPA+) through consistent growth and impactful projects |
+|---|---|
+| 🧠 **Daily Grind** | Competitive coding (LeetCode, SkillRack) + AI/ML research + building smart systems |
+| 🌱 **Currently Mastering** | Python · Flutter · Deep Learning frameworks |
+| 🛠️ **Notable Projects** | Diabetic Foot Detection · Fire Safety App · Sustain AI · Health Monitoring |
+| 🗣️ **Beyond Code** | Improving communication & leadership — channeling Sanji vibes 😎 |
+| 💬 **Let's Talk** | AI, automation, impactful tech, or anything that pushes the boundary |
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+**💻 Languages**
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### 🧩 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**🧩 Frameworks**
 
-### 🤖 AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### ☁️ Cloud & Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+**🤖 AI / ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+
+**☁️ Cloud & Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Puter](https://img.shields.io/badge/Puter-5C6BC0?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHoiLz48L3N2Zz4=&logoColor=white)
-![CodeRabbit](https://img.shields.io/badge/CodeRabbit-8B5CF6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMiAxNWwtNS01IDEuNDEtMS40MUwxMCAxNC4xN2w3LjU5LTcuNTlMMTkgOGwtOSA5eiIvPjwvc3ZnPg==&logoColor=white)
+**🧰 Tools**
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
 ## 🏗️ Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🦶 **[Diabetic Foot Detection](https://github.com/Dhilipkumar-max/Diabetic-Foot-Detection-Using-LLM-Efficientnet-and-Resnet-)** | AI model using LLM + EfficientNet + ResNet for medical image analysis | Python · PyTorch · ResNet |
-| 🌿 **[Sustain AI](https://github.com/Dhilipkumar-max/Sustain_AI)** | Sustainability-focused AI application | Flutter · Dart · Firebase |
-| 🔥 **[RIT Safety App](https://github.com/Dhilipkumar-max/RIT_Safety)** | Fire safety training platform for campus | TypeScript · React |
-| 🏥 **[Health Monitoring](https://github.com/Dhilipkumar-max/HealthMonitoring)** | Smart health tracking dashboard | JavaScript · Firebase |
-| 🤖 **[Chatbot](https://github.com/Dhilipkumar-max/Chatbot)** | AI-powered conversational chatbot | Python · Flask · NLP |
-| 🌱 **[Turmeric Plant Detection](https://github.com/Dhilipkumar-max/Turmeric-Plant-Detection)** | ML model for plant disease detection | Python · OpenCV · scikit-learn |
+<div align="center">
 
-> 💡 *Explore all 48 repositories on my [GitHub profile](https://github.com/Dhilipkumar-max?tab=repositories)!*
+| 🔬 Project | 📝 Description | 🛠️ Stack |
+|:---:|:---|:---:|
+| 🦶 [**Diabetic Foot Detection**](https://github.com/Dhilipkumar-max/Diabetic-Foot-Detection-Using-LLM-Efficientnet-and-Resnet-) | Medical AI using LLM + EfficientNet + ResNet for image analysis | ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white) |
+| 🌿 [**Sustain AI**](https://github.com/Dhilipkumar-max/Sustain_AI) | Sustainability-focused AI mobile application | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| 🔥 [**RIT Safety App**](https://github.com/Dhilipkumar-max/RIT_Safety) | Fire safety training platform for campus | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61DAFB) |
+| 🏥 [**Health Monitoring**](https://github.com/Dhilipkumar-max/HealthMonitoring) | Smart health tracking dashboard | ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| 🤖 [**Medical Chatbot**](https://github.com/Dhilipkumar-max/Chatbot) | AI-powered conversational bot for educational Q&A | ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) |
+| 🌱 [**Turmeric Plant Detection**](https://github.com/Dhilipkumar-max/Turmeric-Plant-Detection) | ML model for agricultural plant disease detection | ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
+
+</div>
+
+> 💡 *Explore all 48 repositories → [github.com/Dhilipkumar-max](https://github.com/Dhilipkumar-max?tab=repositories)*
 
 ---
 
@@ -99,15 +98,21 @@ I'm an **Engineering student at RIT College, Chennai** on a mission to master Ar
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dhilipkumar-max&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dhilipkumar-max&theme=tokyonight&hide_border=true&show_icons=true&count_private=true"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dhilipkumar-max&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Dhilipkumar-max&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Dhilipkumar-max&theme=tokyonight&hide_border=true"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dhilipkumar-max&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+<img src="https://leetcard.jacoblin.cool/DhilipkumarR?theme=dark&font=Fira%20Code&ext=contest&hide_border=true"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhilipkumar-max&bg_color=1a1b27&color=6ad3f7&line=38b2ac&point=6ad3f7&area=true&area_color=38b2ac&hide_border=true"/>
 
 </div>
 
@@ -115,7 +120,6 @@ I'm an **Engineering student at RIT College, Chennai** on a mission to master Ar
 
 ## 🎯 2026 Goals
 
-- [ ] 🏆 Crack top-tier placement (50 LPA+)
 - [ ] 🤖 Ship 3+ production-ready AI projects
 - [ ] 📚 Master Deep Learning & LLM fine-tuning
 - [ ] 🌍 Contribute to open-source AI tools
@@ -129,6 +133,6 @@ I'm an **Engineering student at RIT College, Chennai** on a mission to master Ar
 
 [![](https://visitcount.itsvg.in/api?id=Dhilipkumar-max&icon=6&color=6)](https://visitcount.itsvg.in)
 
-*Thanks for stopping by — let's build something amazing together!* 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
